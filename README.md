@@ -178,15 +178,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 ## 👨‍💻 Author
 
-- **Name:** [Isha Das]
-- **Email:** [ishadas2006@gmail.com]
+- **Name:** [Md. Jisan Ahmed]
+- **Email:** [jisan3325@gmail.com]
 
 ---
-
-```
-
-Let me know if you'd like:
-- A `requirements.txt` file generated.
-- Badges (e.g., Python version, license).
-- To host this on GitHub with a sample output preview image.
-```
